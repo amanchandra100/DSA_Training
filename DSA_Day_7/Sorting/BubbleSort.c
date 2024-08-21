@@ -1,0 +1,35 @@
+#include<stdio.h>
+
+void bubbleSort(int arr[],int count){
+
+    for (int i = 0; i < count-1; i++)
+    {
+        for (int j = 0; j < count-i-1; j++)
+        {
+            if (arr[j]>arr[j+1])
+            {
+                int temp = arr[j];
+                arr[j]=arr[j+1];
+                arr[j+1]=temp;
+            }
+            
+           
+        }
+        
+    }
+}
+
+void main(){
+    int count;
+    int arr[4]={200,3,40,10};
+    count=sizeof(arr)/sizeof(arr[0]);
+    bubbleSort(arr,count);
+   
+
+    for (int i = 0; i < count; i++)
+    {
+       printf("%d ",arr[i] );
+    }
+    
+    
+}

@@ -1,0 +1,19 @@
+Write a progaram to find the highest common factor?
+
+WAP to search a no Count a toatal no of vovels and consonent in string?
+
+Determine a single sting in palindrome or not?
+
+WAP to add two matrics?
+
+WAP determine wheter to matrices are equal or not?
+
+Find maximum and minimum of occuring character in string?
+
+There is stare case of n step we HAVE TO reach at the top but we can one step or two step at a time how many step to take to reach at the top?
+
+WAP to draw Pascal Triangle ?
+
+
+
+ 
