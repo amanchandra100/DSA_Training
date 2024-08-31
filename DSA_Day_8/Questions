@@ -1,0 +1,19 @@
+Determine wheter the two trees are identical ?
+
+Determine wheter a the leaf nodes are at same level?
+
+Draw a binary tree and perform post order traversal?
+
+cows and bulls game
+
+1 2 3 4
+1 2 6 8  = Cows=2 and bulls=0
+
+1 2 3 4
+1 2 3 4  = Cows=0 and bulls=4
+
+1 2 3 4
+1 3 2 4  = Cows=2 and bulls=2
+
+
+
